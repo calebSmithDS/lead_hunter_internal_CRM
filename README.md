@@ -6,6 +6,8 @@
 
 Lead Hunter is a custom lead generation and CRM tool that finds local businesses with missing, broken, or slow websites. It automates prospecting by scraping Google Maps, filtering out optimized competitors, and running Google PageSpeed audits on the targets to build actionable cold-calling lists.
 
+<img width="2492" height="1281" alt="image" src="https://github.com/user-attachments/assets/295eee04-4e32-435e-99ad-3c466c0d7b3f" />
+
 ## Architecture & Features
 
 ### Frontend
